@@ -8,15 +8,10 @@
 - Advanced React
 - TypeScript
 - Python for Data Science
-
-## 💞️ I’m looking to collaborate on:
-- Open source projects
-- Web applications
 ## 📫 How to reach me:
 - Email: [mahmudbekkjumayev@gmail.com](mailto:your-email@example.com)
 ## ⚡ Fun fact:
 I love to explore new technologies and create innovative solutions!
-
 ## 🛠️ Technologies:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
