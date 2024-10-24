@@ -1,5 +1,4 @@
 # 👋 Hi, I’m [@MahmudbekkJumayev](https://github.com/MahmudbekkJumayev)
-
 ## 👀 I’m interested in:
 - Frontend Development
 - Software Engineering
@@ -13,13 +12,8 @@
 ## 💞️ I’m looking to collaborate on:
 - Open source projects
 - Web applications
-- Tech blogs
-
 ## 📫 How to reach me:
 - Email: [mahmudbekkjumayev@gmail.com](mailto:your-email@example.com)
-
-## 😄 Pronouns: He/Him
-
 ## ⚡ Fun fact:
 I love to explore new technologies and create innovative solutions!
 
