@@ -1,7 +1,4 @@
-# 👋 Hi, I’m [@MahmudbekkJumayev](https://github.com/MahmudbekkJumayev)
-## 📫 How to reach me:
-- Email: [mahmudbekkjumayev@gmail.com](mailto:your-email@example.com)
-## ⚡ Fun fact:
+
 I love to explore new technologies and create innovative solutions!
 ## 🛠️ Technologies:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
