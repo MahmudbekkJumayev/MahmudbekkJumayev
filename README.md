@@ -1,13 +1,4 @@
 # 👋 Hi, I’m [@MahmudbekkJumayev](https://github.com/MahmudbekkJumayev)
-## 👀 I’m interested in:
-- Frontend Development
-- Software Engineering
-- Open Source Contributions
-
-## 🌱 I’m currently learning:
-- Advanced React
-- TypeScript
-- Python for Data Science
 ## 📫 How to reach me:
 - Email: [mahmudbekkjumayev@gmail.com](mailto:your-email@example.com)
 ## ⚡ Fun fact:
