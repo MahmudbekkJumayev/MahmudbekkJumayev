@@ -13,19 +13,6 @@ I love to explore new technologies and create innovative solutions!I love to exp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 </p>
 
----
-
-## 🛠️ Animated Technologies:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" />
-  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt=".NET" width="50" />
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Redux" width="50" />
-  <img src="https://media.giphy.com/media/oy83Dw9bP6qOkZ7MOk/giphy.gif" alt="C#" width="50" />
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="Tailwind CSS" width="50" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" />
-</p>
 
 
 
