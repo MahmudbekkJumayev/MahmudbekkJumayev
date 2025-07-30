@@ -1,5 +1,5 @@
 
-I love to explore new technologies and create innovative solutions!I love to explore new technologies and create innovative solutions!
+I love to explore new technologies and create innovative solutions!
 
 ## 🛠️ Technologies:
 
